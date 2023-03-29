@@ -1,9 +1,10 @@
 # **GMT352 Geographic Information Systems**
 
-## **Assignment 2 
+## Assignment 2 
 
 ### **Team Members**
--Argun Toker 21967814
+- Argun Toker 21967814
+- Sude Yaprak Köse 21967632
 
 ## **A case study** 
 *The devastation effect of the earthquake that occurred on February 6 in cities
